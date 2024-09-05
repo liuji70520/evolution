@@ -3,4 +3,4 @@
 # 系统发育树的构建
 phylogenetic_inference.ipynb
 # 进一步学习
-[进化](!https://github.com/millanek/tutorials)
+[进化](https://github.com/millanek/tutorials)
